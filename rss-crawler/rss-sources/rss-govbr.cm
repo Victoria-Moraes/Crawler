@@ -1,0 +1,4 @@
+RSS_CONTENT_FIELD=content:encodedSnippet
+RSS_NAME=gov.br
+RSS_DOMAIN=GERAL
+RSS_TARGET=https://www.gov.br/pt-br/noticias/ultimas-noticias/ultimas-noticias/RSS

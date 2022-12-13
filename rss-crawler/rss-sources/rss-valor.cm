@@ -1,0 +1,4 @@
+RSS_CONTENT_FIELD=contentSnippet
+RSS_NAME=valor
+RSS_DOMAIN=ECONOMIA
+RSS_TARGET=http://pox.globo.com/rss/valor
